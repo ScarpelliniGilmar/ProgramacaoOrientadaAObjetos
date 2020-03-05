@@ -11,7 +11,7 @@ public class Exercicio01 {
         float largura = Float.parseFloat(JOptionPane.showInputDialog("Informe a Largura do Terreno: "));
         float altura = Float.parseFloat(JOptionPane.showInputDialog("Informe a altura do Terreno: "));
 
-        JOptionPane.showMessageDialog(null, "Area do terreno: "+largura*altura);
+        JOptionPane.showMessageDialog(null, "Área do terreno: "+largura*altura);
 
     }
 }
