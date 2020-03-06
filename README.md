@@ -1,2 +1,2 @@
-# Programacao Orientada A Objetos
+# Programação Orientada a Objetos
 Listas de Exercícios
