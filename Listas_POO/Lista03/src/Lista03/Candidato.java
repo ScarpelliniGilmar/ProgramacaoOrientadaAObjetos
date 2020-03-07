@@ -1,9 +1,15 @@
 package Lista03;
 
-public class Candidato extends Pessoa {
+public class Candidato extends Partido{
 	
-	private int numero;
-	private Partido partido;
-	private String cargo;
+	public int numero;
+	public Partido partido;
+	public String cargo;
+	
+	
+
+	
+	
+	
 
 }

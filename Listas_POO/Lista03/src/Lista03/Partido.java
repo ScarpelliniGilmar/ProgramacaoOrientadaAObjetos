@@ -1,11 +1,11 @@
 package Lista03;
 
-public class Partido {
+public class  Partido{
 	
-	private int codigo;
-	private String sigla;
-	private String nome;
+	 public int codigo;
+	 public String sigla;
+	 public String nome;
+	 
+	 
 	
-	
-
 }
