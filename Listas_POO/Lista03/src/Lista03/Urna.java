@@ -71,9 +71,7 @@ public class Urna{
 			c6.partido = p3; 
 			
 			Eleitor e = new Eleitor();
-			e.nome = "Pedrinho";
-			enumeroTitulo = 123;
-			
+	
 					 
 			
 			
