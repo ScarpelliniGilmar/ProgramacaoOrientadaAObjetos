@@ -4,7 +4,7 @@ import java.util.List;
 
 import javax.swing.JOptionPane;
 
-public class ExericioTest {
+public class ExercicioTest {
 
 	public static void main(String[] args) {
 		
